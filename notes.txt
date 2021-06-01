@@ -1,0 +1,7 @@
+1) make index.js
+2) run npm init
+3) run npm install express --save
+4) make import express
+5) make a pointer app to express
+6) make app.listen(port, function)
+7) make app.get for routing

@@ -1,0 +1,14 @@
+{
+  "name": "assignment1",
+  "version": "0.0.1",
+  "description": "COMP229 Assignment1 Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerome Ching",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
